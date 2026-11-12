@@ -1,10 +1,20 @@
 # Parlando
 
-A synthesizer by Justin Howell. Something strikes, plucks or breathes into a body made of wood, string, metal or skin, and the sound comes out through a vocal tract that shapes it into vowels. There's a parameter sequencer for movement. It's a plugin (CLAP, VST3, AU) and a standalone app, for macOS and Windows.
+A unique synthesizer by Justin Howell.
 
-This is a test version. Thanks for playing it.
+It's like a weird physical modeling synth paired with a throat simulation. It sounds like bells from another planet, talking guitars, or metallic percussion that sings to you. I've never seen a modal synth paired with a formant filter and I thought I'd go down the rabbit hole. Really, this synth is for anyone who's tired of the same subtractive synthesis we see everywhere. For someone who wants something unique and weird but also beautiful.
 
-Test versions (before 1.0) stop making sound 60 days after their release, so everyone plays the newest. The header shows how many days are left in the last two weeks. It never stops in the middle of a song, and your sound and patches are kept. A new version starts a fresh 60 days.
+The sequencer is also a huge part of Parlando's sound. Entirely unnecessary to making good sounds, but can unlock things you never would've expected. Happy accidents are made here.
+
+For newcomers, my suggestion would be to flip through a couple patches from each category to get an idea of some of the timbres of the instrument, and then just go off and start breaking stuff.
+
+I really appreciate you taking the time to check this out. If you encounter any issues, please send them [my way](https://www.justinhowell.rocks/contact). Otherwise, I'd love to hear anything you create with this, or any ideas you have for future versions. Thanks!
+
+Parlando is a plugin (CLAP, VST3, AU) and a standalone app, for macOS and Windows.
+
+This is a test version. Test versions (before 1.0) stop making sound 60 days after their release, so everyone plays the newest. The header shows how many days are left in the last two weeks. It never stops in the middle of a song, and your sound and patches are kept. A new version starts a fresh 60 days.
+
+The browser version will always be free to use. Once 1.0 is released, the plugin and the app will be paid, with a launch discount.
 
 ## Download
 
